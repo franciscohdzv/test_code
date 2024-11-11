@@ -1,1 +1,2 @@
-//my fist git .h
+//my fist git .h, 
+//firts modification
